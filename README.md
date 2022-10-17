@@ -1,9 +1,9 @@
- ### Bem Vindo, eu sou Bakeend 👋
+ ### Welcome, I'm PedroDev 👋
 
 
 - 👨‍💻 I'm PedroDev
 - 🎮 I'm student to gamedev
-- 📠 I'm FullStack
+- 📠 I'm Back-end | Future: Fullstack
 - ⚡ Bora Programar!
 
 <h4 align="center">Linguagens / Tecnologias</h4>
