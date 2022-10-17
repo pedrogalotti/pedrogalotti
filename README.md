@@ -15,16 +15,19 @@
 </div>
 
 <br/>
-<!-- - Respondo perguntas dê: <strong>HTML5, CSS3, JavaScript.</strong> -->
+<!-- - Respondo perguntas dê: <strong>HTML5, JavaScript, python,bootstrap</strong> -->
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=pt-br&amp;hide_border=true&amp;username=l0cass" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=pt-br&amp;hide_border=true&amp;username=l0cass" />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=pt-br&amp;hide_border=true&amp;username=pedrogalotti" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=pt-br&amp;hide_border=true&amp;username=pedrogalotti" />
 </div>
 <div align="center">
   <br><br/>
-  <a href="https://www.instagram.com/lucass.piffer/">
+  <a href="https://www.instagram.com/pedrodevprogramming/">
     <img src="https://www.dupaco.com/wp-content/uploads/2020/08/social-media-instagram-icon-600x600-2020-2048x2048.png" width="33" />
+  </a>
+  <a href="https://twitter.com/PedroLucas_Dev">
+    <img src="C:/Users/Pedro/Downloads/twitter.png" />
   </a>
   <br><br/>
 </div>
