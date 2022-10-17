@@ -37,6 +37,11 @@ target="_blank">
 href='https://www.instagram.com/pedrodevprogramming/'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=instagram'
+ <a
+href='https://github.com/pedrogalotti'
+target="_blank">
+<img src='https://skillicons.dev/icons?i=github'
+  </a>
   </a>
   </a>
 </p>
