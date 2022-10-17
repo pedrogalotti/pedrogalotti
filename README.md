@@ -1,33 +1,55 @@
-### <h2>Hello, Programmers! My name is PedroDev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h2><br/>
+ ### Bem Vindo, eu sou Bakeend 👋
 
-👨‍💻 - Developer FullStack Pleno
 
-🎮 - Developer Game Jr.<br/>
-<div align="center"><br/>
-  <h2>⚙️ Github Analytics</h2>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <br/>
-</div>
+- 👨‍💻 Eu sou Bakeend
+- 🌱 Sou estudando de Game-Dev
+- 📠 Fundador da Disky Lab
+- ⚡ Bora Programar!
 
-<br/>
-<!-- - Respondo perguntas dê: <strong>HTML5, JavaScript, python,bootstrap</strong> -->
-<br/>
+<h4 align="center">Linguagens / Tecnologias</h4>
+<p align="center">
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=html,css,js,python,bootstrap,flutter,electron,react,lua,mysql'/>
+  </a>
+  
+<h5 align="center">Programas</h4>
+<p align="center">
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=vscode,qt,firebase,heroku'/>
+  </a>
+  
+
+  
+<h4 align="center">Redes Socias</h4>
+
+<p align="center">
+  <a
+href='https://discord.gg/b2sZ4S4zQW'
+target="_blank">
+<img src='https://skillicons.dev/icons?i=discord'
+  </a>
+<!-- Divide the space -->
+  <a
+href='https://twitter.com/PedroLucas_Dev'
+target="_blank">
+<img src='https://skillicons.dev/icons?i=twitter'
+  <a
+href='https://www.instagram.com/pedrodevprogramming/'
+target="_blank">
+<img src='https://skillicons.dev/icons?i=instagram'
+  </a>
+  </a>
+</p>
+ 
+</p>
+<br><br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=pt-br&amp;hide_border=true&amp;username=pedrogalotti" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=pt-br&amp;hide_border=true&amp;username=pedrogalotti" />
 </div>
-<div align="center">
-  <br><br/>
-  <a href="https://www.instagram.com/pedrodevprogramming/">
-    <img src="https://www.dupaco.com/wp-content/uploads/2020/08/social-media-instagram-icon-600x600-2020-2048x2048.png" width="33" />
-  </a>
-  <a href="https://twitter.com/PedroLucas_Dev">
-    <img src="C:/Users/Pedro/Downloads/twitter.png" />
-  </a>
-  <br><br/>
+
+<br><br/>
+
+</div>
+
 </div>
