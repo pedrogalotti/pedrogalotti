@@ -34,10 +34,10 @@ href='https://twitter.com/PedroLucas_Dev'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=twitter'
   <a
-href='https://www.instagram.com/pedrodevprogramming/'
+href='https://www.instagram.com/pedrodevprogramming'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=instagram'
- <a
+  <a
 href='https://github.com/pedrogalotti'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=github'
