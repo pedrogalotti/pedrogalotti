@@ -1,9 +1,9 @@
  ### Bem Vindo, eu sou Bakeend 👋
 
 
-- 👨‍💻 Eu sou Bakeend
-- 🌱 Sou estudando de Game-Dev
-- 📠 Fundador da Disky Lab
+- 👨‍💻 I'm PedroDev
+- 🎮 I'm student to gamedev
+- 📠 I'm FullStack
 - ⚡ Bora Programar!
 
 <h4 align="center">Linguagens / Tecnologias</h4>
