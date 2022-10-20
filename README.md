@@ -9,7 +9,7 @@
 <h4 align="center">Linguagens / Tecnologias</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=html,css,js,python,bootstrap,flutter,electron,react,lua,mysql'/>
+    <img src='https://skillicons.dev/icons?i=html,css,js,python,bootstrap,mysql'/>
   </a>
   
 <h5 align="center">Programas</h4>
