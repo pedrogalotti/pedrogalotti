@@ -30,11 +30,11 @@ target="_blank">
   </a>
 <!-- Divide the space -->
   <a
-href='https://twitter.com/PedroLucas_Dev'
+href='https://twitter.com/programmerdevs'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=twitter'
   <a
-href='https://instagram.com/pedrodevprogramming/'
+href='https://www.instagram.com/programmerdevs/'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=instagram'
   <a
